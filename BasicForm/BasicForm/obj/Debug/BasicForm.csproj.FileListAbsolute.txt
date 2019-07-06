@@ -1,0 +1,13 @@
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csprojAssemblyReference.cache
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.Form1.resources
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.exe.config
+D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.exe
+D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\BasicForm.pdb
+D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CopyComplete
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.exe
+D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.pdb
