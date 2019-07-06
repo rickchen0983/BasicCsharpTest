@@ -40,6 +40,7 @@ namespace BasicForm
                 lineShape2.X2 = (int)x2 + 270;
                 y2 = double.Parse(textBox3.Text);
                 lineShape2.Y2 = (int)y2 + 150;
+                lineShape2.Visible = true;
             }
                 
         }
@@ -50,6 +51,7 @@ namespace BasicForm
             ly1 = lineShape2.Y1;
             lx2 = lineShape2.X2;
             ly2 = lineShape2.Y2;
+            lineShape2.Visible = false;
         }
 
     }
