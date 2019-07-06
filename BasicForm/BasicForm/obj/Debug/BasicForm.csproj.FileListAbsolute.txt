@@ -11,3 +11,16 @@ D:\Users\r2606\source\repos\BasicForm\BasicForm\bin\Debug\Microsoft.VisualBasic.
 D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CopyComplete
 D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.exe
 D:\Users\r2606\source\repos\BasicForm\BasicForm\obj\Debug\BasicForm.pdb
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\bin\Debug\BasicForm.exe.config
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\bin\Debug\BasicForm.exe
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\bin\Debug\BasicForm.pdb
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.csprojAssemblyReference.cache
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.Form1.resources
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.Properties.Resources.resources
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.GenerateResource.cache
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CoreCompileInputs.cache
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.csproj.CopyComplete
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.exe
+C:\Users\r2606\Desktop\BasicCsharpTest\BasicForm\BasicForm\obj\Debug\BasicForm.pdb
